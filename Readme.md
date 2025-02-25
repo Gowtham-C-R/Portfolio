@@ -7,6 +7,9 @@ I am a passionate and experienced Data Analyst with over 4 years of experience i
 
 You can learn more about me through my LinkedIn profile or reach out via email at [gowthamchandanraju9@gmail.com](mailto:gowthamchandanraju9@gmail.com).
 
+### Connect with me on LinkedIn
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Gowtham%20Chandan%20Raju-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowtham-cr/)
+
 ## Skills & Technologies
 
 ### Data Analysis Tools:
