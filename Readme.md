@@ -1,4 +1,5 @@
 # Gowtham Chandan Raju - Data Analyst Portfolio
+
 Hi there ✋! Welcome to my Data Analyst portfolio! This repository showcases some of my projects, technical skills, and experience. Here, you’ll find insights into how I approach data analysis, problem-solving, and the tools I use to create data-driven solutions.
 
 ## About Me
@@ -82,8 +83,8 @@ You can learn more about me through my LinkedIn profile or reach out via email a
   <img src="https://img.shields.io/badge/Kanban-0001AB?style=for-the-badge&logo=kanban&logoColor=white" />
 </p>
 
-
 ## Projects
+
 ### 1. Predictive Model for Customer Churn
 #### Tools Used: 
 <p>
@@ -95,6 +96,7 @@ You can learn more about me through my LinkedIn profile or reach out via email a
 
 #### Description:
   Developed a predictive model to identify customers at risk of churn in the telecommunications industry. Used machine learning techniques to analyze customer data and predict churn probability.
+
 #### Key Achievements: 
   - Achieved 85% model accuracy in predicting churn.
   - Created an interactive Tableau dashboard to present insights to stakeholders.
@@ -109,6 +111,7 @@ You can learn more about me through my LinkedIn profile or reach out via email a
 
 #### Description: 
   Designed and built automated reporting dashboards to track key performance indicators (KPIs) across multiple departments, reducing reporting time by 75%.
+
 #### Key Achievements:
   - Improved operational efficiency by automating repetitive reporting tasks.
   - Enabled stakeholders to access real-time data insights for timely decision-making.
@@ -116,7 +119,7 @@ You can learn more about me through my LinkedIn profile or reach out via email a
 ### 3. Cloud Data Warehousing Solution for Marketing Analytics
 #### Tools Used: 
 <p>
-  <img src="https://img.shields.io/badge/AWS%20Redshift)-1234AB?style=for-the-badge&logo=amazon&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS%20Redshift-1234AB?style=for-the-badge&logo=amazon&logoColor=white" />
   <img src="https://img.shields.io/badge/Fivetran-316192?style=for-the-badge&logo=fivetran&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL-5010BF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/Tableau-1234AB?style=for-the-badge&logo=tableau&logoColor=white" />
@@ -124,6 +127,7 @@ You can learn more about me through my LinkedIn profile or reach out via email a
 
 #### Description: 
   Built a cloud-based data warehousing solution to centralize marketing data, enhancing reporting and analytics capabilities for the marketing team.
+
 #### Key Achievements:
   - Increased reporting efficiency by 30%.
   - Developed custom dashboards to visualize marketing campaign performance and customer acquisition metrics.
@@ -138,7 +142,8 @@ You can learn more about me through my LinkedIn profile or reach out via email a
 </p>
 
 #### Description: 
-  Developed a forecasting model for a financial services client to predict sales trends and optimize resource allocation.
+  Developed a forecasting model for a financial services client to predict sales trends and optimize resource allocation. The model utilized historical sales data, external factors, and seasonality patterns to generate accurate sales projections.
+
 #### Key Achievements:
   - Improved forecasting accuracy by 20%.
   - Presented actionable insights to senior management to optimize budget allocation and sales strategies.
@@ -148,16 +153,18 @@ You can learn more about me through my LinkedIn profile or reach out via email a
 #### AWS Certified Solutions Architect – Amazon Web Services
 #### Google Cloud Professional Data Engineer – Google Cloud
 #### Machine Learning with TensorFlow – Coursera
-#### How to Use This Repository
 
-Explore the Projects directory to review code and see implementation details of my data analysis projects.
-Check out notebooks for code used in data analysis and machine learning models.
-View reports, dashboards, and data visualizations in the reports directory.
-Contact Me
+## How to Use This Repository
+- Explore the **Projects** directory to review code and see implementation details of my data analysis projects.
+- Check out the **notebooks** for code used in data analysis and machine learning models.
+- View **reports**, **dashboards**, and **data visualizations** in the reports directory.
+
+## Contact Me
 Feel free to reach out for collaboration or inquiries at:
 
-Email: gowthamchandanraju9@gmail.com
-LinkedIn: Gowtham Chandan RajuLinkedIn
-GitHub: Gowtham-C-R GitHub
-License
+- Email: [gowthamchandanraju9@gmail.com](mailto:gowthamchandanraju9@gmail.com)
+- LinkedIn: [Gowtham Chandan Raju](https://www.linkedin.com/in/gowthamchandanraju/)
+- GitHub: [Gowtham-C-R GitHub](https://github.com/Gowtham-C-R)
+
+## License
 This portfolio is free to explore and open for feedback. Feel free to use any of the materials here for educational purposes. For commercial use, please contact me for permission.
